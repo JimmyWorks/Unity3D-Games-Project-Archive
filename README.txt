@@ -1,6 +1,8 @@
 # Unity3D-Games-Project-Archive
 An archive of discontinued Unity3D projects for various games developed over the years
 
+!!! CHECK OUT THE WIKI FOR IN-GAME SCREENSHOTS !!!
+
 # Archived Game Project Contents
 - The Floor is Lava
 - Legend of Doggo
@@ -33,7 +35,7 @@ Features:
 - Awesome flying saucer
 Controls:
 Arrow keys for movement.
-Spacebar for jump.
+Up arrow for jump.
 
 # Platformer Girl
 Target Platform: PC
